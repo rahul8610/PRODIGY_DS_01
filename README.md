@@ -1,2 +1,2 @@
-this task is done using MS Excel where the data is arranged so that the person accessing the data file can find the total population of certain countries mentioned.
-They can also understand the data using the histogram which is pinned in the Excel file 
+This repository contains an Excel workbook that provides detailed data on the male population across different countries. The data is sorted and organized for easy analysis, offering a clear view of demographic trends. The "(task-1)POPULATION OF MALE(solutions enclosed).xlsx" file includes comprehensive lists and visualizations such as charts and graphs to aid in understanding population distributions. Whether you're conducting research or simply exploring global demographics, this file serves as a valuable resource. I want you to know that contributions to enhance the data or visualizations are welcome. Feel free to download, review, and contribute!
+
